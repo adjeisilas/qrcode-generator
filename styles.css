@@ -11,3 +11,14 @@ body{
     min-height: 100vh;
     background: #262a2f;
 }
+container{
+    width: 400px;
+    padding: 25px 25;
+    position:absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background: #fff;
+    border-radius: 10px;
+    text-align: center;
+}
