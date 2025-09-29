@@ -11,9 +11,9 @@ body{
     min-height: 100vh;
     background: #262a2f;
 }
-container{
+.container{
     width: 400px;
-    padding: 25px 25;
+    padding: 25px 35px;
     position:absolute;
     top: 50%;
     left: 50%;
